@@ -18,4 +18,6 @@ public class ToVerifyHomePageTest {
 	public void toVerifyUserPageTest() {
 		System.out.println("The UserPage is verified");
 	}
+	
+	
 }
